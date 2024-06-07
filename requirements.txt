@@ -28,7 +28,7 @@ chardet==4.0.0
 charset-normalizer==2.0.0
 click==8.0.3
 cloudpickle==2.0.0
-cryptography==35.0.0
+cryptography==42.0.8
 cycler==0.11.0
 cytoolz==0.11.2
 dask==2020.12.0
@@ -67,7 +67,7 @@ jupyter-core==4.9.1
 jupyter-offlinenotebook==0.2.1
 jupyter-resource-usage==0.6.0
 jupyter-rsession-proxy==1.1
-jupyter-server==1.11.2
+jupyter-server==2.14.1
 jupyter-server-proxy==1.4.0
 jupyter-shiny-proxy==1.1
 jupyter-telemetry==0.1.0
@@ -140,7 +140,7 @@ requests==2.26.0
 ruamel.yaml==0.17.17
 ruamel.yaml.clib==0.2.6
 scikit-image==0.15.0
-scikit-learn==0.21.3
+scikit-learn==1.5.0
 scipy==1.7.1
 seaborn==0.11.2
 Send2Trash==1.8.0
@@ -161,7 +161,7 @@ termcolor==1.1.0
 terminado==0.12.1
 testpath==0.5.0
 toolz==0.11.2
-tornado==6.1
+tornado==6.4.1
 traitlets==5.1.1
 traittypes==0.2.1
 typing_extensions==4.0.0
