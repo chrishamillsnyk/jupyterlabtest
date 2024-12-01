@@ -67,7 +67,7 @@ jupyter-core==4.9.1
 jupyter-offlinenotebook==0.2.1
 jupyter-resource-usage==0.6.0
 jupyter-rsession-proxy==1.1
-jupyter-server==1.11.2
+jupyter-server==1.23.6
 jupyter-server-proxy==1.4.0
 jupyter-shiny-proxy==1.1
 jupyter-telemetry==0.1.0
