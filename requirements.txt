@@ -63,7 +63,7 @@ joblib==1.1.0
 json5==0.9.5
 jsonschema==4.2.1
 jupyter-client==7.0.6
-jupyter-core==4.9.1
+jupyter-core==5.8.0
 jupyter-offlinenotebook==0.2.1
 jupyter-resource-usage==0.6.0
 jupyter-rsession-proxy==1.1
