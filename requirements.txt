@@ -165,7 +165,7 @@ tornado==6.1
 traitlets==5.1.1
 traittypes==0.2.1
 typing_extensions==4.0.0
-urllib3==1.26.7
+urllib3==2.6.3
 wcwidth==0.2.5
 webencodings==0.5.1
 websocket-client==1.2.1
