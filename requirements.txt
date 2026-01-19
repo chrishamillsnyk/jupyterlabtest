@@ -36,7 +36,7 @@ dataclasses==0.8
 debugpy==1.5.1
 decorator==5.1.0
 defusedxml==0.7.1
-distributed==2021.4.0
+distributed==2026.1.0
 entrypoints==0.3
 fastcache==1.1.0
 frozenlist==1.2.0
